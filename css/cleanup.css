@@ -1,1 +1,37 @@
-/* write your override styles here */
+/* write your override*/
+
+
+#wall .tag-1 {
+    display:none;
+}
+
+#tag-2{
+    
+    z-index:6;
+    display:none;
+    
+}
+#tag-3 .slickwicked{
+    z-index:5;
+    visibility:hidden;
+}
+.class #tag-4{
+    z-index:4;
+     display:hidden;
+}
+.parent #tag-5, .slick{
+    z-index:3;
+    visibility:hidden;
+}
+#tag-6{
+    z-index:2;
+    visibility:hidden;
+}
+#tag-7 .slick{
+    z-index:1;
+    visibility:hidden;
+}
+
+
+   
+
